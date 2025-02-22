@@ -46,7 +46,7 @@ display:inline-block;
 }
 .navigation ul li a{
   font-family: 'Stint Ultra Condensed', cursive;
-  color: #735b36;
+  color: #000000;
   font-size: 24px;
 }
 .navigation ul li a:hover{
@@ -75,10 +75,11 @@ background-size:cover;
 min-height: 860px;
 border-bottom: 8px solid #efebe4;
 }
+
 .banner-info h2 {
-  font-size: 33px;
+  font-size: 30px;
   margin: 0;
-  color:#fff;
+  color:#000000;
   font-weight: 200;
   line-height:1.6em;
   letter-spacing: 2px;
@@ -86,13 +87,13 @@ border-bottom: 8px solid #efebe4;
 }
 .banner-info {
   min-height: 350px;
-  margin-top: 278px;
-  width: 40%;
+  margin-top: 600px;
+  width: 30%;
 }
 .banner-info p{
-line-height:1.8em;
-font-size:14px;
-color:#E2CFCF;
+line-height:1.9em;
+font-size:15px;
+color:#010101;
 margin:17px 0 40px 0;
 }
 .banner-info a{
@@ -363,7 +364,7 @@ top: 9%;
   padding: 40px 0;
 }
 .bottom-grid p{
-color:#542f1d;
+color:#000000;
 font-size:14px;
 text-shadow: 1px 1px 0px #fff;
 margin:0;
