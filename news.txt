@@ -1,8 +1,9 @@
 index
+tercer commit 22-2-25
 cambio en en los 3 banner que cambian con el tiempo
 cambio de color en el banner, oraciones, foto
 
-
-falta seccion 4,5 y 6
+cuarto commit 
+falta seccion 4,5 y 6 usar colores azules marinos
 
 tareas para hacer: que las letras negras del banner se vean bien con el fondo
